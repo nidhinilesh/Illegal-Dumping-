@@ -1,4 +1,4 @@
-#!/home/unnikrishnan/work/va/venv/bin/python
+#!/Users/nidhi/project/Illegal-Dumping-/vendor/venv/bin/python
 
 import sys
 import getopt
